@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "305088215814",
+    "firebase_url": "https://incorito-a1265.firebaseio.com",
+    "project_id": "incorito-a1265",
+    "storage_bucket": "incorito-a1265.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305088215814:android:74352927082b27f883fc87",
+        "android_client_info": {
+          "package_name": "com.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305088215814-n0mpj81c1fso0d2n3e6c6frbv3f3p1g5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgPitYmcwLKyNgqTYfVgLBJO_vcMNBgSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305088215814-n0mpj81c1fso0d2n3e6c6frbv3f3p1g5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
